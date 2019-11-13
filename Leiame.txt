@@ -1,0 +1,4 @@
+- O projeto esta sendo reestruturado num outro projeto, este esta descontinuado
+- Houve a necessidade de separar o projeto em dois subprojetos: o cliente e o servidor
+
+
